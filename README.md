@@ -11,3 +11,5 @@ G (ПРЫЖОК ПО ИМЕНИ, АДРЕССУ)
 shift + f4 (FUNCTIONS)
 
 <img width="452" height="116" alt="{C0471529-181A-4CB9-8028-0F335C43573C}" src="https://github.com/user-attachments/assets/8da3c780-f477-45aa-80d2-60750ba3170e" />
+
+fn + f5 если не работает f1-f9
