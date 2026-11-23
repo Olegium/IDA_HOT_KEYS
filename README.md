@@ -19,3 +19,11 @@ fn + f5 если не работает f1-f9
 <img width="499" height="271" alt="{E57C6615-64EE-408D-96F7-3A6C90038A16}" src="https://github.com/user-attachments/assets/b51c65d3-bbaf-46ce-bec0-2a2c7ea3e433" />
 
 <img width="2047" height="601" alt="{04C48F01-5105-4271-9395-76FBB2B87586}" src="https://github.com/user-attachments/assets/f1e2f970-7078-42f1-b6f2-51ce43d3eea8" />
+
+наводимся на переменную нажимаем X и видим ссылки
+
+<img width="576" height="290" alt="{C3EEF3A2-67F3-4918-B47E-F549847EEF8F}" src="https://github.com/user-attachments/assets/fca56513-e485-4f38-95d3-a340cfa23034" />
+
+тут у нас все окна
+
+<img width="628" height="792" alt="{48250624-7F44-4D5E-BBFB-5A1872B076A0}" src="https://github.com/user-attachments/assets/41eb7f75-ed8a-45af-9a90-8131365978ae" />
