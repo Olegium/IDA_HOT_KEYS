@@ -27,3 +27,8 @@ fn + f5 если не работает f1-f9
 тут у нас все окна
 
 <img width="628" height="792" alt="{48250624-7F44-4D5E-BBFB-5A1872B076A0}" src="https://github.com/user-attachments/assets/41eb7f75-ed8a-45af-9a90-8131365978ae" />
+
+shift f1 можно менять типы
+
+<img width="551" height="678" alt="{441C4223-DC53-4610-B33C-54AA29D4E584}" src="https://github.com/user-attachments/assets/810537dd-74b7-44ce-8770-963308765afb" />
+
