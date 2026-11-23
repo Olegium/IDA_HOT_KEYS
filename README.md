@@ -13,3 +13,9 @@ shift + f4 (FUNCTIONS)
 <img width="452" height="116" alt="{C0471529-181A-4CB9-8028-0F335C43573C}" src="https://github.com/user-attachments/assets/8da3c780-f477-45aa-80d2-60750ba3170e" />
 
 fn + f5 если не работает f1-f9
+
+обзор близости Proximity browser
+
+<img width="499" height="271" alt="{E57C6615-64EE-408D-96F7-3A6C90038A16}" src="https://github.com/user-attachments/assets/b51c65d3-bbaf-46ce-bec0-2a2c7ea3e433" />
+
+<img width="2047" height="601" alt="{04C48F01-5105-4271-9395-76FBB2B87586}" src="https://github.com/user-attachments/assets/f1e2f970-7078-42f1-b6f2-51ce43d3eea8" />
